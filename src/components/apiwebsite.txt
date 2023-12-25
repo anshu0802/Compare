@@ -1,0 +1,10 @@
+https://seatgeek.com/account/develop
+
+http://platform.seatgeek.com/#authentication
+
+https://developer-acct.ticketmaster.com/user/register
+
+https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/
+
+Your app secret is 2643867f272c5bdaeeaba688bb9b0b7fead93749e2b9652c2c4a1a9f2dca6435
+

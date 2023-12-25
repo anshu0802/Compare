@@ -1,0 +1,3337 @@
+{
+    "events": [
+        {
+            "type": "concert",
+            "id": 5870180,
+            "datetime_utc": "2023-10-08T01:30:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 21,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "Pink",
+                    "image": "https://seatgeek.com/images/performers-landscape/pink-84fd93/1441/13590/huge.jpg",
+                    "id": 1441,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/pink-84fd93/1441/13590/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 25
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 1
+                        }
+                    ],
+                    "image_attribution": "Brian Killian / WireImage / Getty Images",
+                    "url": "https://seatgeek.com/pink-tickets",
+                    "score": 0.74,
+                    "slug": "pink",
+                    "home_venue_id": null,
+                    "short_name": "Pink",
+                    "num_upcoming_events": 25,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "genres": [
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/travis-scott-d789a0/146225/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/travis-scott-d5460b/146225/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/travis-scott-3c13f2/146225/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/travis-scott-450521/146225/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/travis-scott-70c580/146225/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/travis-scott-fbd12e/146225/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/travis-scott-565695/146225/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/travis-scott-9b3d82/146225/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/travis-scott-a67905/146225/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/travis-scott-450ff0/146225/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/travis-scott-f6d61a/146225/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/travis-scott-60cfab/146225/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/travis-scott-1a7606/146225/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/travis-scott-adf031/146225/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/travis-scott-ff4935/146225/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/travis-scott-d948b1/146225/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/travis-scott-41b083/146225/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/travis-scott-2f3e84/146225/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/travis-scott-bc7fb8/146225/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/travis-scott-45ed75/146225/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/travis-scott-adf031/146225/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/taylor-swift-95bfc1/35/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/taylor-swift-5aed70/35/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/taylor-swift-ea1e7e/35/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/taylor-swift-23f9f5/35/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/taylor-swift-1ad124/35/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/taylor-swift-397e97/35/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/taylor-swift-9e502b/35/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/taylor-swift-310144/35/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/taylor-swift-19e3f0/35/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/taylor-swift-92ebf3/35/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/taylor-swift-bab6e1/35/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1dbf4/35/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/taylor-swift-15afb9/35/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/taylor-swift-3ebde5/35/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/taylor-swift-a807ae/35/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/taylor-swift-69d4a9/35/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/taylor-swift-5a3f01/35/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/taylor-swift-db2f1f/35/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/taylor-swift-c3abf8/35/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) Brian Killian / WireImage / Getty Images"
+                },
+                {
+                    "type": "band",
+                    "name": "Brandi Carlile",
+                    "image": "https://seatgeek.com/images/performers-landscape/brandi-carlile-b92bdf/363/huge.jpg",
+                    "id": 363,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/brandi-carlile-b92bdf/363/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 4
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 1
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (Creative Project)",
+                    "url": "https://seatgeek.com/brandi-carlile-tickets",
+                    "score": 0.71,
+                    "slug": "brandi-carlile",
+                    "home_venue_id": null,
+                    "short_name": "Brandi Carlile",
+                    "num_upcoming_events": 4,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (Creative Project)",
+                    "genres": [
+                        {
+                            "id": 450,
+                            "name": "Country",
+                            "slug": "country",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-33f7af/797285/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-ecb7cd/797285/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-5e4173/797285/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-980de8/797285/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-0e29a9/797285/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-b2a51d/797285/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-cd2735/797285/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-6c4869/797285/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-9a42b0/797285/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-c48ddb/797285/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-9cf993/797285/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-29f47c/797285/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-571764/797285/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-a6d843/797285/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-498dd7/797285/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-7bb559/797285/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-4157c6/797285/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-a4a14d/797285/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-0fee8f/797285/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-6a2431/797285/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-a6d843/797285/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/travis-scott-d789a0/146225/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/travis-scott-d5460b/146225/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/travis-scott-3c13f2/146225/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/travis-scott-450521/146225/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/travis-scott-70c580/146225/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/travis-scott-fbd12e/146225/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/travis-scott-565695/146225/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/travis-scott-9b3d82/146225/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/travis-scott-a67905/146225/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/travis-scott-450ff0/146225/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/travis-scott-f6d61a/146225/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/travis-scott-60cfab/146225/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/travis-scott-1a7606/146225/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/travis-scott-adf031/146225/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/travis-scott-ff4935/146225/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/travis-scott-d948b1/146225/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/travis-scott-41b083/146225/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/travis-scott-2f3e84/146225/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/travis-scott-bc7fb8/146225/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/travis-scott-45ed75/146225/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/travis-scott-adf031/146225/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/taylor-swift-95bfc1/35/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/taylor-swift-5aed70/35/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/taylor-swift-ea1e7e/35/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/taylor-swift-23f9f5/35/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/taylor-swift-1ad124/35/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/taylor-swift-397e97/35/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/taylor-swift-9e502b/35/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/taylor-swift-310144/35/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/taylor-swift-19e3f0/35/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/taylor-swift-92ebf3/35/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/taylor-swift-bab6e1/35/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1dbf4/35/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/taylor-swift-15afb9/35/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/taylor-swift-3ebde5/35/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/taylor-swift-a807ae/35/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/taylor-swift-69d4a9/35/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/taylor-swift-5a3f01/35/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/taylor-swift-db2f1f/35/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/taylor-swift-c3abf8/35/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 457,
+                            "name": "Alternative",
+                            "slug": "alternative",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/chappell-roan-0641ac/665649/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/chappell-roan-96a022/665649/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/chappell-roan-4c9c69/665649/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/chappell-roan-71bc45/665649/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/chappell-roan-9784be/665649/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/chappell-roan-9f58d9/665649/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/chappell-roan-5b8ee1/665649/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/chappell-roan-3605dc/665649/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/chappell-roan-5fe873/665649/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/chappell-roan-4800ee/665649/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/chappell-roan-b1ad27/665649/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/chappell-roan-af462d/665649/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/chappell-roan-8e0bdd/665649/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/chappell-roan-985688/665649/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/chappell-roan-48e297/665649/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/chappell-roan-9e06d3/665649/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/chappell-roan-c3b36c/665649/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/chappell-roan-233d09/665649/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/chappell-roan-37fa52/665649/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/chappell-roan-a858ec/665649/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/chappell-roan-985688/665649/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 467,
+                            "name": "Folk",
+                            "slug": "folk",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/morgan-wallen-c3be66/562860/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/morgan-wallen-1fd221/562860/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/morgan-wallen-d3cf61/562860/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/morgan-wallen-f6f154/562860/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/morgan-wallen-011067/562860/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/morgan-wallen-74cdd5/562860/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/morgan-wallen-11d537/562860/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/morgan-wallen-de4f1e/562860/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/morgan-wallen-0f5f11/562860/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/morgan-wallen-98d287/562860/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/morgan-wallen-3cab31/562860/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/morgan-wallen-b6bcf4/562860/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/morgan-wallen-0b6720/562860/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/morgan-wallen-d8919f/562860/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/morgan-wallen-582fd6/562860/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/morgan-wallen-c3e6bf/562860/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/morgan-wallen-7a8cdd/562860/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/morgan-wallen-46343d/562860/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/morgan-wallen-08f331/562860/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/morgan-wallen-c6cc45/562860/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/morgan-wallen-d8919f/562860/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "band",
+                    "name": "Grouplove",
+                    "image": "https://seatgeek.com/images/performers-landscape/grouplove-1a2d3c/8987/huge.jpg",
+                    "id": 8987,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/grouplove-1a2d3c/8987/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 25
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 1
+                        }
+                    ],
+                    "image_attribution": "FilmMagic / FilmMagic / Getty Images",
+                    "url": "https://seatgeek.com/grouplove-tickets",
+                    "score": 0.75,
+                    "slug": "grouplove",
+                    "home_venue_id": null,
+                    "short_name": "Grouplove",
+                    "num_upcoming_events": 25,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "genres": [
+                        {
+                            "id": 458,
+                            "name": "Indie",
+                            "slug": "indie",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/hozier-e174eb/270278/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/hozier-8e8328/270278/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/hozier-c4eba6/270278/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/hozier-e92958/270278/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/hozier-2333e4/270278/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/hozier-ba7377/270278/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/hozier-f927d4/270278/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/hozier-f7234d/270278/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/hozier-0a52e1/270278/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/hozier-2a085f/270278/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/hozier-45ba93/270278/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/hozier-684878/270278/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/hozier-640c71/270278/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/hozier-e3190f/270278/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/hozier-5bd9a0/270278/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/hozier-4739ce/270278/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/hozier-b8801b/270278/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/hozier-e4b5f1/270278/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/hozier-5c6a84/270278/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/hozier-200b57/270278/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/hozier-e3190f/270278/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/travis-scott-d789a0/146225/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/travis-scott-d5460b/146225/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/travis-scott-3c13f2/146225/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/travis-scott-450521/146225/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/travis-scott-70c580/146225/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/travis-scott-fbd12e/146225/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/travis-scott-565695/146225/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/travis-scott-9b3d82/146225/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/travis-scott-a67905/146225/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/travis-scott-450ff0/146225/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/travis-scott-f6d61a/146225/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/travis-scott-60cfab/146225/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/travis-scott-1a7606/146225/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/travis-scott-adf031/146225/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/travis-scott-ff4935/146225/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/travis-scott-d948b1/146225/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/travis-scott-41b083/146225/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/travis-scott-2f3e84/146225/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/travis-scott-bc7fb8/146225/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/travis-scott-45ed75/146225/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/travis-scott-adf031/146225/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/taylor-swift-95bfc1/35/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/taylor-swift-5aed70/35/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/taylor-swift-ea1e7e/35/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/taylor-swift-23f9f5/35/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/taylor-swift-1ad124/35/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/taylor-swift-397e97/35/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/taylor-swift-9e502b/35/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/taylor-swift-310144/35/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/taylor-swift-19e3f0/35/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/taylor-swift-92ebf3/35/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/taylor-swift-bab6e1/35/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1dbf4/35/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/taylor-swift-15afb9/35/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/taylor-swift-3ebde5/35/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/taylor-swift-a807ae/35/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/taylor-swift-69d4a9/35/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/taylor-swift-5a3f01/35/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/taylor-swift-db2f1f/35/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/taylor-swift-c3abf8/35/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 457,
+                            "name": "Alternative",
+                            "slug": "alternative",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/chappell-roan-0641ac/665649/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/chappell-roan-96a022/665649/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/chappell-roan-4c9c69/665649/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/chappell-roan-71bc45/665649/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/chappell-roan-9784be/665649/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/chappell-roan-9f58d9/665649/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/chappell-roan-5b8ee1/665649/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/chappell-roan-3605dc/665649/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/chappell-roan-5fe873/665649/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/chappell-roan-4800ee/665649/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/chappell-roan-b1ad27/665649/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/chappell-roan-af462d/665649/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/chappell-roan-8e0bdd/665649/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/chappell-roan-985688/665649/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/chappell-roan-48e297/665649/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/chappell-roan-9e06d3/665649/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/chappell-roan-c3b36c/665649/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/chappell-roan-233d09/665649/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/chappell-roan-37fa52/665649/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/chappell-roan-a858ec/665649/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/chappell-roan-985688/665649/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) FilmMagic / FilmMagic / Getty Images"
+                },
+                {
+                    "type": "band",
+                    "name": "Kid Cut Up",
+                    "image": "https://seatgeek.com/images/performers-landscape/kid-cut-up-1c2d25/62900/huge.jpg",
+                    "id": 62900,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/kid-cut-up-1c2d25/62900/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 18
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 1
+                        }
+                    ],
+                    "image_attribution": "Gary Miller / Getty Images Entertainment / Getty Images",
+                    "url": "https://seatgeek.com/kid-cut-up-tickets",
+                    "score": 0.79,
+                    "slug": "kid-cut-up",
+                    "home_venue_id": null,
+                    "short_name": "Kid Cut Up",
+                    "num_upcoming_events": 18,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) Gary Miller / Getty Images Entertainment / Getty Images"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-10-07T18:30:00",
+            "time_tbd": false,
+            "short_title": "Pink with Brandi Carlile, Grouplove and Kid Cut Up",
+            "visible_until_utc": "2023-10-08T05:30:00",
+            "stats": {
+                "listing_count": 2884,
+                "average_price": 617,
+                "lowest_price_good_deals": 33,
+                "lowest_price": 33,
+                "highest_price": 117503,
+                "visible_listing_count": 1501,
+                "dq_bucket_counts": [
+                    387,
+                    720,
+                    667,
+                    344,
+                    326,
+                    362,
+                    246,
+                    0
+                ],
+                "median_price": 395,
+                "lowest_sg_base_price": 19,
+                "lowest_sg_base_price_good_deals": 19
+            },
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "rank": 1
+                }
+            ],
+            "url": "https://seatgeek.com/pink-tickets/las-vegas-nevada-allegiant-stadium-2023-10-07-6-30-pm/concert/5870180",
+            "score": 0.78,
+            "announce_date": "2022-11-14T00:00:00",
+            "created_at": "2022-11-14T15:56:59",
+            "date_tbd": false,
+            "title": "Pink with Brandi Carlile, Grouplove and Kid Cut Up",
+            "popularity": 0.885,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE",
+                "created_at": "2023-08-12T00:15:32Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-18T00:52:48Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "id": 6019431,
+            "datetime_utc": "2023-10-10T00:15:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 20,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "nfl",
+                    "name": "Las Vegas Raiders",
+                    "image": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg",
+                    "id": 2087,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "AFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "AFC West",
+                            "display_name": "AFC West",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "afc-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - VFS 2023",
+                    "url": "https://seatgeek.com/las-vegas-raiders-tickets",
+                    "score": 0.79,
+                    "slug": "las-vegas-raiders",
+                    "home_venue_id": 514837,
+                    "short_name": "Raiders",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#181818",
+                            "#A5ACAF",
+                            "#181818"
+                        ],
+                        "iconic": "#181818",
+                        "primary": [
+                            "#181818",
+                            "#A5ACAF"
+                        ]
+                    },
+                    "image_license": "SeatGeek - VFS 2023",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.0909,
+                        "lon": -115.183
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "nfl",
+                    "name": "Green Bay Packers",
+                    "image": "https://seatgeek.com/images/performers-landscape/green-bay-packers-0dfd44/2083/huge.jpg",
+                    "id": 2083,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/green-bay-packers-0dfd44/2083/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "NFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "NFC North",
+                            "display_name": "NFC North",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "nfc-north"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - VFS 2023",
+                    "url": "https://seatgeek.com/green-bay-packers-tickets",
+                    "score": 0.78,
+                    "slug": "green-bay-packers",
+                    "home_venue_id": 1125,
+                    "short_name": "Packers",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#203731",
+                            "#FFB612",
+                            "#203731"
+                        ],
+                        "iconic": "#203731",
+                        "primary": [
+                            "#203731",
+                            "#FFB612"
+                        ]
+                    },
+                    "image_license": "SeatGeek - VFS 2023",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 44.5013,
+                        "lon": -88.0622
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-10-09T17:15:00",
+            "time_tbd": false,
+            "short_title": "Packers at Raiders",
+            "visible_until_utc": "2023-10-10T04:15:00",
+            "stats": {
+                "listing_count": 374,
+                "average_price": 1071,
+                "lowest_price_good_deals": 392,
+                "lowest_price": 392,
+                "highest_price": 36303,
+                "visible_listing_count": 373,
+                "dq_bucket_counts": [
+                    5,
+                    127,
+                    146,
+                    44,
+                    26,
+                    11,
+                    15,
+                    0
+                ],
+                "median_price": 609,
+                "lowest_sg_base_price": 290,
+                "lowest_sg_base_price_good_deals": 290
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 2
+                }
+            ],
+            "url": "https://seatgeek.com/las-vegas-raiders-tickets/10-9-2023-las-vegas-nevada-allegiant-stadium/nfl/6019431",
+            "score": 0.854,
+            "announce_date": "2023-05-11T00:00:00",
+            "created_at": "2023-05-11T20:19:45",
+            "date_tbd": false,
+            "title": "Green Bay Packers at Las Vegas Raiders",
+            "popularity": 0.913,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "SECURE_ENTRY_TM",
+                "created_at": "2023-08-11T23:30:00Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-05-12T00:00:00Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "id": 6019432,
+            "datetime_utc": "2023-10-15T20:05:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 20,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "nfl",
+                    "name": "Las Vegas Raiders",
+                    "image": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg",
+                    "id": 2087,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "AFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "AFC West",
+                            "display_name": "AFC West",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "afc-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - VFS 2023",
+                    "url": "https://seatgeek.com/las-vegas-raiders-tickets",
+                    "score": 0.79,
+                    "slug": "las-vegas-raiders",
+                    "home_venue_id": 514837,
+                    "short_name": "Raiders",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#181818",
+                            "#A5ACAF",
+                            "#181818"
+                        ],
+                        "iconic": "#181818",
+                        "primary": [
+                            "#181818",
+                            "#A5ACAF"
+                        ]
+                    },
+                    "image_license": "SeatGeek - VFS 2023",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.0909,
+                        "lon": -115.183
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "nfl",
+                    "name": "New England Patriots",
+                    "image": "https://seatgeek.com/images/performers-landscape/new-england-patriots-4ab0de/2085/huge.jpg",
+                    "id": 2085,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/new-england-patriots-4ab0de/2085/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "AFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "AFC East",
+                            "display_name": "AFC East",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "afc-east"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - VFS 2023",
+                    "url": "https://seatgeek.com/new-england-patriots-tickets",
+                    "score": 0.78,
+                    "slug": "new-england-patriots",
+                    "home_venue_id": 33,
+                    "short_name": "Patriots",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#002244",
+                            "#C60C30",
+                            "#002244"
+                        ],
+                        "iconic": "#002244",
+                        "primary": [
+                            "#002244",
+                            "#C60C30"
+                        ]
+                    },
+                    "image_license": "SeatGeek - VFS 2023",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 42.0906,
+                        "lon": -71.2674
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-10-15T13:05:00",
+            "time_tbd": false,
+            "short_title": "Patriots at Raiders",
+            "visible_until_utc": "2023-10-16T00:05:00",
+            "stats": {
+                "listing_count": 418,
+                "average_price": 661,
+                "lowest_price_good_deals": 298,
+                "lowest_price": 298,
+                "highest_price": 12033,
+                "visible_listing_count": 414,
+                "dq_bucket_counts": [
+                    17,
+                    142,
+                    131,
+                    45,
+                    40,
+                    21,
+                    21,
+                    0
+                ],
+                "median_price": 519,
+                "lowest_sg_base_price": 219,
+                "lowest_sg_base_price_good_deals": 219
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 2
+                }
+            ],
+            "url": "https://seatgeek.com/las-vegas-raiders-tickets/10-15-2023-las-vegas-nevada-allegiant-stadium/nfl/6019432",
+            "score": 0.825,
+            "announce_date": "2023-05-11T00:00:00",
+            "created_at": "2023-05-11T20:19:45",
+            "date_tbd": false,
+            "title": "New England Patriots at Las Vegas Raiders",
+            "popularity": 0.889,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "SECURE_ENTRY_TM",
+                "created_at": "2023-08-11T23:30:00Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-05-12T00:00:00Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "ncaa_football",
+            "id": 5960672,
+            "datetime_utc": "2023-10-21T23:00:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 20,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "ncaa_football",
+                    "name": "UNLV Rebels Football",
+                    "image": "https://seatgeek.com/images/matchup/v3_31353/5590/5586/huge.jpg",
+                    "id": 5590,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/matchup/v3_31353/5590/5586/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": null,
+                            "display_name": "Bowl Subdivision",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": "MWC",
+                            "display_name": "Mountain West",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "mountain-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020200,
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 7
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/unlv-rebels-football-tickets",
+                    "score": 0.63,
+                    "slug": "unlv-rebels-football",
+                    "home_venue_id": 514837,
+                    "short_name": "UNLV",
+                    "num_upcoming_events": 7,
+                    "colors": {
+                        "all": [
+                            "#000000",
+                            "#CF0A2C",
+                            "#000000"
+                        ],
+                        "iconic": "#CF0A2C",
+                        "primary": [
+                            "#000000",
+                            "#CF0A2C"
+                        ]
+                    },
+                    "image_license": null,
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.0909,
+                        "lon": -115.183
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_football",
+                    "name": "Colorado State Rams Football",
+                    "image": "https://seatgeek.com/images/performers-landscape/colorado-state-rams-football-01034b/5586/huge.jpg",
+                    "id": 5586,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/colorado-state-rams-football-01034b/5586/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": null,
+                            "display_name": "Bowl Subdivision",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": "MWC",
+                            "display_name": "Mountain West",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "mountain-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 8
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020200,
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 7
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/colorado-state-rams-football-tickets",
+                    "score": 0.67,
+                    "slug": "colorado-state-rams-football",
+                    "home_venue_id": 425968,
+                    "short_name": "Colorado State",
+                    "num_upcoming_events": 8,
+                    "colors": {
+                        "all": [
+                            "#1E4D2B",
+                            "#C8C372",
+                            "#1E4D2B"
+                        ],
+                        "iconic": "#1E4D2B",
+                        "primary": [
+                            "#1E4D2B",
+                            "#C8C372"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 40.5699,
+                        "lon": -105.088
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-10-21T16:00:00",
+            "time_tbd": false,
+            "short_title": "Colorado State at UNLV",
+            "visible_until_utc": "2023-10-22T03:00:00",
+            "stats": {
+                "listing_count": 112,
+                "average_price": 129,
+                "lowest_price_good_deals": 41,
+                "lowest_price": 41,
+                "highest_price": 720,
+                "visible_listing_count": 112,
+                "dq_bucket_counts": [
+                    4,
+                    48,
+                    27,
+                    9,
+                    6,
+                    9,
+                    11,
+                    0
+                ],
+                "median_price": 106,
+                "lowest_sg_base_price": 25,
+                "lowest_sg_base_price_good_deals": 25
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1020200,
+                    "name": "ncaa_football",
+                    "parent_id": 1020000,
+                    "rank": 7
+                }
+            ],
+            "url": "https://seatgeek.com/unlv-rebels-football-tickets/ncaa-football/2023-10-21-4-pm/5960672",
+            "score": 0.542,
+            "announce_date": "2023-03-02T00:00:00",
+            "created_at": "2023-03-02T20:26:38",
+            "date_tbd": false,
+            "title": "Colorado State Rams at UNLV Rebels Football",
+            "popularity": 0.761,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "MOBILE_ONLY",
+                "created_at": "2023-09-09T23:21:33Z",
+                "employee_only": false
+            },
+            "event_promotion": {
+                "headline": "Homecoming",
+                "additional_info": "",
+                "images": {
+                    "icon": "https://seatgeek.com/images/event_promotion/cfde4a9e-d87e-479f-af94-c3accc145a13/icon.svg",
+                    "png@2x": "https://seatgeek.com/images/event_promotion/cfde4a9e-d87e-479f-af94-c3accc145a13/png_2x.png",
+                    "png@3x": "https://seatgeek.com/images/event_promotion/cfde4a9e-d87e-479f-af94-c3accc145a13/png_3x.png"
+                }
+            },
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-18T01:08:56Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "concert",
+            "id": 5830107,
+            "datetime_utc": "2023-10-29T01:00:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 21,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "Ed Sheeran",
+                    "image": "https://seatgeek.com/images/performers-landscape/ed-sheeran-add438/13546/44693/huge.jpg",
+                    "id": 13546,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/ed-sheeran-add438/13546/44693/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 3
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 1
+                        }
+                    ],
+                    "image_attribution": "Jeff Kravitz / FilmMagic / Getty Images",
+                    "url": "https://seatgeek.com/ed-sheeran-tickets",
+                    "score": 0.77,
+                    "slug": "ed-sheeran",
+                    "home_venue_id": null,
+                    "short_name": "Ed Sheeran",
+                    "num_upcoming_events": 3,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "genres": [
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/travis-scott-d789a0/146225/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/travis-scott-d5460b/146225/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/travis-scott-3c13f2/146225/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/travis-scott-450521/146225/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/travis-scott-70c580/146225/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/travis-scott-fbd12e/146225/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/travis-scott-565695/146225/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/travis-scott-9b3d82/146225/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/travis-scott-a67905/146225/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/travis-scott-450ff0/146225/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/travis-scott-f6d61a/146225/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/travis-scott-60cfab/146225/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/travis-scott-1a7606/146225/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/travis-scott-adf031/146225/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/travis-scott-ff4935/146225/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/travis-scott-d948b1/146225/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/travis-scott-41b083/146225/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/travis-scott-2f3e84/146225/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/travis-scott-bc7fb8/146225/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/travis-scott-45ed75/146225/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/travis-scott-adf031/146225/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/taylor-swift-95bfc1/35/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/taylor-swift-5aed70/35/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/taylor-swift-ea1e7e/35/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/taylor-swift-23f9f5/35/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/taylor-swift-1ad124/35/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/taylor-swift-397e97/35/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/taylor-swift-9e502b/35/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/taylor-swift-310144/35/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/taylor-swift-19e3f0/35/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/taylor-swift-92ebf3/35/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/taylor-swift-bab6e1/35/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1dbf4/35/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/taylor-swift-15afb9/35/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/taylor-swift-3ebde5/35/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/taylor-swift-a807ae/35/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/taylor-swift-69d4a9/35/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/taylor-swift-5a3f01/35/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/taylor-swift-db2f1f/35/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/taylor-swift-c3abf8/35/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 467,
+                            "name": "Folk",
+                            "slug": "folk",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/morgan-wallen-c3be66/562860/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/morgan-wallen-1fd221/562860/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/morgan-wallen-d3cf61/562860/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/morgan-wallen-f6f154/562860/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/morgan-wallen-011067/562860/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/morgan-wallen-74cdd5/562860/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/morgan-wallen-11d537/562860/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/morgan-wallen-de4f1e/562860/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/morgan-wallen-0f5f11/562860/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/morgan-wallen-98d287/562860/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/morgan-wallen-3cab31/562860/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/morgan-wallen-b6bcf4/562860/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/morgan-wallen-0b6720/562860/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/morgan-wallen-d8919f/562860/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/morgan-wallen-582fd6/562860/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/morgan-wallen-c3e6bf/562860/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/morgan-wallen-7a8cdd/562860/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/morgan-wallen-46343d/562860/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/morgan-wallen-08f331/562860/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/morgan-wallen-c6cc45/562860/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/morgan-wallen-d8919f/562860/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) Jeff Kravitz / FilmMagic / Getty Images"
+                },
+                {
+                    "type": "band",
+                    "name": "Russ",
+                    "image": "https://seatgeek.com/images/performers-landscape/russ-da7599/296937/huge.jpg",
+                    "id": 296937,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/russ-da7599/296937/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 1
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (Creative Project)",
+                    "url": "https://seatgeek.com/russ-tickets",
+                    "score": 0.73,
+                    "slug": "russ",
+                    "home_venue_id": null,
+                    "short_name": "Russ",
+                    "num_upcoming_events": 1,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (Creative Project)",
+                    "genres": [
+                        {
+                            "id": 493,
+                            "name": "Rap",
+                            "slug": "rap",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/jelly-roll-398545/25461/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/jelly-roll-e6c631/25461/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/jelly-roll-308dc9/25461/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/jelly-roll-973644/25461/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/jelly-roll-7d53e6/25461/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/jelly-roll-137f01/25461/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/jelly-roll-8fbddc/25461/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/jelly-roll-b63e1a/25461/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/jelly-roll-59d53d/25461/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/jelly-roll-1d1f42/25461/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/jelly-roll-5696b0/25461/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/jelly-roll-6085b2/25461/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/jelly-roll-ab1295/25461/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/jelly-roll-5123ed/25461/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/jelly-roll-789460/25461/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/jelly-roll-35bc01/25461/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/jelly-roll-634d6e/25461/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/jelly-roll-1c4d09/25461/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/jelly-roll-458da1/25461/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/jelly-roll-7b0825/25461/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/jelly-roll-5123ed/25461/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 491,
+                            "name": "Hip-Hop",
+                            "slug": "hip-hop",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/rod-wave-afac94/782153/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/rod-wave-e05f61/782153/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/rod-wave-55189c/782153/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/rod-wave-71fc07/782153/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/rod-wave-22386b/782153/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/rod-wave-594688/782153/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/rod-wave-0545f0/782153/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/rod-wave-210eb7/782153/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/rod-wave-506399/782153/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/rod-wave-c08dd8/782153/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/rod-wave-cc7b63/782153/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/rod-wave-56666b/782153/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/rod-wave-044aaa/782153/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/rod-wave-d88392/782153/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/rod-wave-e40911/782153/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/rod-wave-e44304/782153/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/rod-wave-7fbf79/782153/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/rod-wave-4ba7d4/782153/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/rod-wave-73057f/782153/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/rod-wave-5524db/782153/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/rod-wave-d88392/782153/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "band",
+                    "name": "Maisie Peters",
+                    "image": "https://seatgeek.com/images/performers-landscape/maisie-peters-fcf9a1/402168/huge.jpg",
+                    "id": 402168,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/maisie-peters-fcf9a1/402168/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 5
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 1
+                        }
+                    ],
+                    "image_attribution": "Joseph Okpako / WireImage / Getty Images",
+                    "url": "https://seatgeek.com/maisie-peters-tickets",
+                    "score": 0.68,
+                    "slug": "maisie-peters",
+                    "home_venue_id": null,
+                    "short_name": "Maisie Peters",
+                    "num_upcoming_events": 5,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) Joseph Okpako / WireImage / Getty Images"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-10-28T18:00:00",
+            "time_tbd": false,
+            "short_title": "Ed Sheeran",
+            "visible_until_utc": "2023-10-29T05:00:00",
+            "stats": {
+                "listing_count": 2636,
+                "average_price": 212,
+                "lowest_price_good_deals": 76,
+                "lowest_price": 76,
+                "highest_price": 11854,
+                "visible_listing_count": 2593,
+                "dq_bucket_counts": [
+                    129,
+                    633,
+                    937,
+                    451,
+                    239,
+                    137,
+                    101,
+                    0
+                ],
+                "median_price": 208,
+                "lowest_sg_base_price": 51,
+                "lowest_sg_base_price_good_deals": 51
+            },
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "rank": 1
+                }
+            ],
+            "url": "https://seatgeek.com/ed-sheeran-tickets/las-vegas-nevada-allegiant-stadium-2023-10-28-6-pm/concert/5830107",
+            "score": 0.733,
+            "announce_date": "2022-10-03T00:00:00",
+            "created_at": "2022-10-03T14:57:24",
+            "date_tbd": false,
+            "title": "Ed Sheeran",
+            "popularity": 0.854,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE",
+                "created_at": "2023-08-12T00:15:30Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-18T00:47:59Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "id": 6019442,
+            "datetime_utc": "2023-11-05T21:25:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 21,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "nfl",
+                    "name": "Las Vegas Raiders",
+                    "image": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg",
+                    "id": 2087,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "AFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "AFC West",
+                            "display_name": "AFC West",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "afc-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - VFS 2023",
+                    "url": "https://seatgeek.com/las-vegas-raiders-tickets",
+                    "score": 0.79,
+                    "slug": "las-vegas-raiders",
+                    "home_venue_id": 514837,
+                    "short_name": "Raiders",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#181818",
+                            "#A5ACAF",
+                            "#181818"
+                        ],
+                        "iconic": "#181818",
+                        "primary": [
+                            "#181818",
+                            "#A5ACAF"
+                        ]
+                    },
+                    "image_license": "SeatGeek - VFS 2023",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.0909,
+                        "lon": -115.183
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "nfl",
+                    "name": "New York Giants",
+                    "image": "https://seatgeek.com/images/performers-landscape/new-york-giants-8fe855/2079/huge.jpg",
+                    "id": 2079,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/new-york-giants-8fe855/2079/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "NFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "NFC East",
+                            "display_name": "NFC East",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "nfc-east"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - VFS 2023",
+                    "url": "https://seatgeek.com/new-york-giants-tickets",
+                    "score": 0.8,
+                    "slug": "new-york-giants",
+                    "home_venue_id": 1587,
+                    "short_name": "Giants",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#0B2265",
+                            "#A71930",
+                            "#0B2265"
+                        ],
+                        "iconic": "#0B2265",
+                        "primary": [
+                            "#0B2265",
+                            "#A71930"
+                        ]
+                    },
+                    "image_license": "SeatGeek - VFS 2023",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 40.8142,
+                        "lon": -74.0737
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-11-05T13:25:00",
+            "time_tbd": false,
+            "short_title": "Giants at Raiders",
+            "visible_until_utc": "2023-11-06T01:25:00",
+            "stats": {
+                "listing_count": 505,
+                "average_price": 687,
+                "lowest_price_good_deals": 334,
+                "lowest_price": 334,
+                "highest_price": 12377,
+                "visible_listing_count": 503,
+                "dq_bucket_counts": [
+                    33,
+                    155,
+                    152,
+                    56,
+                    38,
+                    41,
+                    32,
+                    0
+                ],
+                "median_price": 549,
+                "lowest_sg_base_price": 247,
+                "lowest_sg_base_price_good_deals": 247
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 2
+                }
+            ],
+            "url": "https://seatgeek.com/las-vegas-raiders-tickets/11-5-2023-las-vegas-nevada-allegiant-stadium/nfl/6019442",
+            "score": 0.766,
+            "announce_date": "2023-05-11T00:00:00",
+            "created_at": "2023-05-11T20:19:46",
+            "date_tbd": false,
+            "title": "New York Giants at Las Vegas Raiders",
+            "popularity": 0.869,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "SECURE_ENTRY_TM",
+                "created_at": "2023-08-11T23:30:00Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-05-12T00:00:00Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "ncaa_football",
+            "id": 5960676,
+            "datetime_utc": "2023-11-11T03:45:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 20,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "ncaa_football",
+                    "name": "UNLV Rebels Football",
+                    "image": "https://seatgeek.com/images/performers-landscape/unlv-rebels-football-5ba874/5590/huge.jpg",
+                    "id": 5590,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/unlv-rebels-football-5ba874/5590/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": null,
+                            "display_name": "Bowl Subdivision",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": "MWC",
+                            "display_name": "Mountain West",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "mountain-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020200,
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 7
+                        }
+                    ],
+                    "image_attribution": "Client provided - 2023",
+                    "url": "https://seatgeek.com/unlv-rebels-football-tickets",
+                    "score": 0.63,
+                    "slug": "unlv-rebels-football",
+                    "home_venue_id": 514837,
+                    "short_name": "UNLV",
+                    "num_upcoming_events": 7,
+                    "colors": {
+                        "all": [
+                            "#000000",
+                            "#CF0A2C",
+                            "#000000"
+                        ],
+                        "iconic": "#CF0A2C",
+                        "primary": [
+                            "#000000",
+                            "#CF0A2C"
+                        ]
+                    },
+                    "image_license": "Client provided - 2023",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.0909,
+                        "lon": -115.183
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_football",
+                    "name": "Wyoming Cowboys Football",
+                    "image": "https://seatgeek.com/images/performers-landscape/wyoming-cowboys-football-cc5e07/5592/huge.jpg",
+                    "id": 5592,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/wyoming-cowboys-football-cc5e07/5592/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": null,
+                            "display_name": "Bowl Subdivision",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": "MWC",
+                            "display_name": "Mountain West",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "mountain-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020200,
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 7
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/wyoming-cowboys-football-tickets",
+                    "score": 0.67,
+                    "slug": "wyoming-cowboys-football",
+                    "home_venue_id": 2766,
+                    "short_name": "Wyoming",
+                    "num_upcoming_events": 7,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 41.3138,
+                        "lon": -105.584
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-11-10T19:45:00",
+            "time_tbd": false,
+            "short_title": "Wyoming at UNLV",
+            "visible_until_utc": "2023-11-11T07:45:00",
+            "stats": {
+                "listing_count": 152,
+                "average_price": 157,
+                "lowest_price_good_deals": 38,
+                "lowest_price": 38,
+                "highest_price": 697,
+                "visible_listing_count": 151,
+                "dq_bucket_counts": [
+                    13,
+                    55,
+                    21,
+                    12,
+                    14,
+                    29,
+                    8,
+                    0
+                ],
+                "median_price": 151,
+                "lowest_sg_base_price": 23,
+                "lowest_sg_base_price_good_deals": 23
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1020200,
+                    "name": "ncaa_football",
+                    "parent_id": 1020000,
+                    "rank": 7
+                }
+            ],
+            "url": "https://seatgeek.com/unlv-rebels-football-tickets/ncaa-football/2023-11-10-7-45-pm/5960676",
+            "score": 0.549,
+            "announce_date": "2023-03-02T00:00:00",
+            "created_at": "2023-03-02T20:27:01",
+            "date_tbd": false,
+            "title": "Wyoming Cowboys at UNLV Rebels Football",
+            "popularity": 0.77,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "MOBILE_ONLY",
+                "created_at": "2023-09-09T23:21:59Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-18T01:08:56Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "id": 6019443,
+            "datetime_utc": "2023-11-13T01:20:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 20,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "nfl",
+                    "name": "Las Vegas Raiders",
+                    "image": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg",
+                    "id": 2087,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "AFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "AFC West",
+                            "display_name": "AFC West",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "afc-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - VFS 2023",
+                    "url": "https://seatgeek.com/las-vegas-raiders-tickets",
+                    "score": 0.79,
+                    "slug": "las-vegas-raiders",
+                    "home_venue_id": 514837,
+                    "short_name": "Raiders",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#181818",
+                            "#A5ACAF",
+                            "#181818"
+                        ],
+                        "iconic": "#181818",
+                        "primary": [
+                            "#181818",
+                            "#A5ACAF"
+                        ]
+                    },
+                    "image_license": "SeatGeek - VFS 2023",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.0909,
+                        "lon": -115.183
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "nfl",
+                    "name": "New York Jets",
+                    "image": "https://seatgeek.com/images/performers-landscape/new-york-jets-f40457/2070/huge.jpg",
+                    "id": 2070,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/new-york-jets-f40457/2070/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "AFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "AFC East",
+                            "display_name": "AFC East",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "afc-east"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "Provided by Jets",
+                    "url": "https://seatgeek.com/new-york-jets-tickets",
+                    "score": 0.78,
+                    "slug": "new-york-jets",
+                    "home_venue_id": 1587,
+                    "short_name": "Jets",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#115740",
+                            "#ffffff",
+                            "#115740"
+                        ],
+                        "iconic": "#115740",
+                        "primary": [
+                            "#115740",
+                            "#ffffff"
+                        ]
+                    },
+                    "image_license": "Provided by Jets",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 40.8142,
+                        "lon": -74.0737
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-11-12T17:20:00",
+            "time_tbd": false,
+            "short_title": "Jets at Raiders",
+            "visible_until_utc": "2023-11-13T05:20:00",
+            "stats": {
+                "listing_count": 573,
+                "average_price": 743,
+                "lowest_price_good_deals": 320,
+                "lowest_price": 320,
+                "highest_price": 12033,
+                "visible_listing_count": 570,
+                "dq_bucket_counts": [
+                    57,
+                    194,
+                    121,
+                    52,
+                    50,
+                    52,
+                    47,
+                    0
+                ],
+                "median_price": 597,
+                "lowest_sg_base_price": 236,
+                "lowest_sg_base_price_good_deals": 236
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 2
+                }
+            ],
+            "url": "https://seatgeek.com/las-vegas-raiders-tickets/11-12-2023-las-vegas-nevada-allegiant-stadium/nfl/6019443",
+            "score": 0.766,
+            "announce_date": "2023-05-11T00:00:00",
+            "created_at": "2023-05-11T20:19:46",
+            "date_tbd": false,
+            "title": "New York Jets at Las Vegas Raiders",
+            "popularity": 0.87,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "SECURE_ENTRY_TM",
+                "created_at": "2023-08-11T23:30:00Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-05-12T00:00:00Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "ncaa_football",
+            "id": 5960678,
+            "datetime_utc": "2023-11-25T20:00:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 20,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "ncaa_football",
+                    "name": "UNLV Rebels Football",
+                    "image": "https://seatgeek.com/images/performers-landscape/unlv-rebels-football-5ba874/5590/huge.jpg",
+                    "id": 5590,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/unlv-rebels-football-5ba874/5590/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": null,
+                            "display_name": "Bowl Subdivision",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": "MWC",
+                            "display_name": "Mountain West",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "mountain-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020200,
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 7
+                        }
+                    ],
+                    "image_attribution": "Client provided - 2023",
+                    "url": "https://seatgeek.com/unlv-rebels-football-tickets",
+                    "score": 0.63,
+                    "slug": "unlv-rebels-football",
+                    "home_venue_id": 514837,
+                    "short_name": "UNLV",
+                    "num_upcoming_events": 7,
+                    "colors": {
+                        "all": [
+                            "#000000",
+                            "#CF0A2C",
+                            "#000000"
+                        ],
+                        "iconic": "#CF0A2C",
+                        "primary": [
+                            "#000000",
+                            "#CF0A2C"
+                        ]
+                    },
+                    "image_license": "Client provided - 2023",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.0909,
+                        "lon": -115.183
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_football",
+                    "name": "San Jose State Spartans Football",
+                    "image": "https://seatgeek.com/images/performers-landscape/san-jose-state-spartans-football-2d1c29/5667/huge.jpg",
+                    "id": 5667,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/san-jose-state-spartans-football-2d1c29/5667/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": null,
+                            "display_name": "Bowl Subdivision",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020200,
+                            "short_name": "MWC",
+                            "display_name": "Mountain West",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "mountain-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020200,
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 7
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/san-jose-state-spartans-football-tickets",
+                    "score": 0.59,
+                    "slug": "san-jose-state-spartans-football",
+                    "home_venue_id": 422457,
+                    "short_name": "San Jose State",
+                    "num_upcoming_events": 7,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 37.3217,
+                        "lon": -121.867
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-11-25T12:00:00",
+            "time_tbd": false,
+            "short_title": "San Jose State at UNLV",
+            "visible_until_utc": "2023-11-26T00:00:00",
+            "stats": {
+                "listing_count": 100,
+                "average_price": 117,
+                "lowest_price_good_deals": 37,
+                "lowest_price": 37,
+                "highest_price": 581,
+                "visible_listing_count": 100,
+                "dq_bucket_counts": [
+                    5,
+                    37,
+                    27,
+                    11,
+                    7,
+                    5,
+                    10,
+                    0
+                ],
+                "median_price": 110,
+                "lowest_sg_base_price": 23,
+                "lowest_sg_base_price_good_deals": 23
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1020200,
+                    "name": "ncaa_football",
+                    "parent_id": 1020000,
+                    "rank": 7
+                }
+            ],
+            "url": "https://seatgeek.com/unlv-rebels-football-tickets/ncaa-football/2023-11-25-12-pm/5960678",
+            "score": 0.435,
+            "announce_date": "2023-03-02T00:00:00",
+            "created_at": "2023-03-02T20:27:09",
+            "date_tbd": false,
+            "title": "San Jose State Spartans at UNLV Rebels Football",
+            "popularity": 0.717,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "MOBILE_ONLY",
+                "created_at": "2023-09-09T23:22:11Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-18T01:08:56Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "id": 6019429,
+            "datetime_utc": "2023-11-26T21:25:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Allegiant Stadium",
+                "postal_code": "89118",
+                "name": "Allegiant Stadium",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/allegiant-stadium/tickets",
+                "score": 0.93,
+                "location": {
+                    "lat": 36.0909,
+                    "lon": -115.183
+                },
+                "address": "3333 Al Davis Way",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 20,
+                "city": "Las Vegas",
+                "slug": "allegiant-stadium",
+                "extended_address": "Las Vegas, NV 89118",
+                "id": 514837,
+                "popularity": 0,
+                "access_method": {
+                    "method": "SECURE_ENTRY_TM",
+                    "created_at": "2023-08-11T23:30:00Z",
+                    "employee_only": false
+                },
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "nfl",
+                    "name": "Las Vegas Raiders",
+                    "image": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg",
+                    "id": 2087,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/las-vegas-raiders-3ea9b6/2087/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "AFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "AFC West",
+                            "display_name": "AFC West",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "afc-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - VFS 2023",
+                    "url": "https://seatgeek.com/las-vegas-raiders-tickets",
+                    "score": 0.79,
+                    "slug": "las-vegas-raiders",
+                    "home_venue_id": 514837,
+                    "short_name": "Raiders",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#181818",
+                            "#A5ACAF",
+                            "#181818"
+                        ],
+                        "iconic": "#181818",
+                        "primary": [
+                            "#181818",
+                            "#A5ACAF"
+                        ]
+                    },
+                    "image_license": "SeatGeek - VFS 2023",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.0909,
+                        "lon": -115.183
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "nfl",
+                    "name": "Kansas City Chiefs",
+                    "image": "https://seatgeek.com/images/performers-landscape/kansas-city-chiefs-6b5772/2060/huge.jpg",
+                    "id": 2060,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/kansas-city-chiefs-6b5772/2060/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": null,
+                            "display_name": "AFC",
+                            "display_type": "Conference",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1020100,
+                            "short_name": "AFC West",
+                            "display_name": "AFC West",
+                            "display_type": "Division",
+                            "division_level": 2,
+                            "slug": "afc-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 13
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020000,
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0
+                        },
+                        {
+                            "id": 1020100,
+                            "name": "nfl",
+                            "parent_id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 2
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - VFS 2023",
+                    "url": "https://seatgeek.com/kansas-city-chiefs-tickets",
+                    "score": 0.81,
+                    "slug": "kansas-city-chiefs",
+                    "home_venue_id": 1128,
+                    "short_name": "Chiefs",
+                    "num_upcoming_events": 13,
+                    "colors": {
+                        "all": [
+                            "#E31837",
+                            "#FFB81C",
+                            "#E31837"
+                        ],
+                        "iconic": "#E31837",
+                        "primary": [
+                            "#E31837",
+                            "#FFB81C"
+                        ]
+                    },
+                    "image_license": "SeatGeek - VFS 2023",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 39.0489,
+                        "lon": -94.4839
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-11-26T13:25:00",
+            "time_tbd": false,
+            "short_title": "Chiefs at Raiders",
+            "visible_until_utc": "2023-11-27T01:25:00",
+            "stats": {
+                "listing_count": 437,
+                "average_price": 856,
+                "lowest_price_good_deals": 411,
+                "lowest_price": 411,
+                "highest_price": 8389,
+                "visible_listing_count": 435,
+                "dq_bucket_counts": [
+                    38,
+                    126,
+                    136,
+                    39,
+                    27,
+                    37,
+                    36,
+                    0
+                ],
+                "median_price": 693,
+                "lowest_sg_base_price": 304,
+                "lowest_sg_base_price_good_deals": 304
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 2
+                }
+            ],
+            "url": "https://seatgeek.com/las-vegas-raiders-tickets/11-26-2023-las-vegas-nevada-allegiant-stadium/nfl/6019429",
+            "score": 0.78,
+            "announce_date": "2023-05-11T00:00:00",
+            "created_at": "2023-05-11T20:19:45",
+            "date_tbd": false,
+            "title": "Kansas City Chiefs at Las Vegas Raiders",
+            "popularity": 0.876,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "SECURE_ENTRY_TM",
+                "created_at": "2023-08-11T23:30:00Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-05-12T00:00:00Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "themes": [],
+            "domain_information": []
+        }
+    ],
+    "meta": {
+        "total": 21,
+        "took": 4,
+        "page": 1,
+        "per_page": 10,
+        "geolocation": null
+    }
+}

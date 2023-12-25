@@ -1,0 +1,311 @@
+{
+    "venues": [
+        {
+            "state": "IL",
+            "name_v2": "BMO Center",
+            "postal_code": "61101",
+            "name": "BMO Center",
+            "links": [],
+            "timezone": "America/Chicago",
+            "url": "https://seatgeek.com/venues/bmo-center/tickets",
+            "score": 0.59,
+            "location": {
+                "lat": 42.2711,
+                "lon": -89.094
+            },
+            "address": "300 Elm St.",
+            "country": "US",
+            "has_upcoming_events": true,
+            "num_upcoming_events": 53,
+            "city": "Rockford",
+            "slug": "bmo-center",
+            "extended_address": "Rockford, IL 61101",
+            "stats": {
+                "event_count": 53
+            },
+            "id": 632,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 610,
+            "capacity": 0,
+            "display_location": "Rockford, IL"
+        },
+        {
+            "state": "IL",
+            "name_v2": "On The Waterfront",
+            "postal_code": "61101",
+            "name": "On The Waterfront",
+            "links": [],
+            "timezone": "America/Chicago",
+            "url": "https://seatgeek.com/venues/on-the-waterfront/tickets",
+            "score": 0.533315,
+            "location": {
+                "lat": 42.2715,
+                "lon": -89.095
+            },
+            "address": "308 W. State Street",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rockford",
+            "slug": "on-the-waterfront",
+            "extended_address": "Rockford, IL 61101",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 2622,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 610,
+            "capacity": 0,
+            "display_location": "Rockford, IL"
+        },
+        {
+            "state": "IL",
+            "name_v2": "Coronado Performing Arts Center",
+            "postal_code": "61101",
+            "name": "Coronado Performing Arts Center",
+            "links": [],
+            "timezone": "America/Chicago",
+            "url": "https://seatgeek.com/venues/coronado-performing-arts-center-1/tickets",
+            "score": 0.53,
+            "location": {
+                "lat": 42.274,
+                "lon": -89.0929
+            },
+            "address": "314 N. Main St.",
+            "country": "US",
+            "has_upcoming_events": true,
+            "num_upcoming_events": 29,
+            "city": "Rockford",
+            "slug": "coronado-performing-arts-center-1",
+            "extended_address": "Rockford, IL 61101",
+            "stats": {
+                "event_count": 29
+            },
+            "id": 1149,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 610,
+            "capacity": 2310,
+            "display_location": "Rockford, IL"
+        },
+        {
+            "state": "IA",
+            "name_v2": "Veterans Memorial Stadium - Cedar Rapids",
+            "postal_code": "52401",
+            "name": "Veterans Memorial Stadium - Cedar Rapids",
+            "links": [],
+            "timezone": "America/Chicago",
+            "url": "https://seatgeek.com/venues/veterans-memorial-stadium-cedar-rapids/tickets",
+            "score": 0.52,
+            "location": {
+                "lat": 41.9677,
+                "lon": -91.6873
+            },
+            "address": "950 Rockford Road Sw",
+            "country": "US",
+            "has_upcoming_events": true,
+            "num_upcoming_events": 66,
+            "city": "Cedar Rapids",
+            "slug": "veterans-memorial-stadium-cedar-rapids",
+            "extended_address": "Cedar Rapids, IA 52401",
+            "stats": {
+                "event_count": 66
+            },
+            "id": 47260,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 637,
+            "capacity": 0,
+            "display_location": "Cedar Rapids, IA"
+        },
+        {
+            "state": "IA",
+            "name_v2": "ImOn Ice",
+            "postal_code": "52404",
+            "name": "ImOn Ice",
+            "links": [],
+            "timezone": "America/Chicago",
+            "url": "https://seatgeek.com/venues/imon-ice-2/tickets",
+            "score": 0.47,
+            "location": {
+                "lat": 41.966,
+                "lon": -91.687
+            },
+            "address": "1100 Rockford RD",
+            "country": "US",
+            "has_upcoming_events": true,
+            "num_upcoming_events": 31,
+            "city": "Cedar Rapids",
+            "slug": "imon-ice-2",
+            "extended_address": "Cedar Rapids, IA 52404",
+            "stats": {
+                "event_count": 31
+            },
+            "id": 8775,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 637,
+            "capacity": 0,
+            "display_location": "Cedar Rapids, IA"
+        },
+        {
+            "state": "IL",
+            "name_v2": "Davis Park",
+            "postal_code": "61101",
+            "name": "Davis Park",
+            "links": [],
+            "timezone": "America/Chicago",
+            "url": "https://seatgeek.com/venues/davis-park/tickets",
+            "score": 0.456372,
+            "location": {
+                "lat": 42.2675,
+                "lon": -89.0958
+            },
+            "address": "5427 W. Division St.",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rockford",
+            "slug": "davis-park",
+            "extended_address": "Rockford, IL 61101",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 5641,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 610,
+            "capacity": 0,
+            "display_location": "Rockford, IL"
+        },
+        {
+            "state": "IL",
+            "name_v2": "Giovanni's",
+            "postal_code": "61107",
+            "name": "Giovanni's",
+            "links": [],
+            "timezone": "America/Chicago",
+            "url": "https://seatgeek.com/venues/giovanni-s/tickets",
+            "score": 0.351221,
+            "location": {
+                "lat": 42.2726,
+                "lon": -88.9712
+            },
+            "address": "610 N Bell School Rd",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rockford",
+            "slug": "giovanni-s",
+            "extended_address": "Rockford, IL 61107",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 37752,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 610,
+            "capacity": 0,
+            "display_location": "Rockford, IL"
+        },
+        {
+            "state": "IL",
+            "name_v2": "Morning Star Village",
+            "postal_code": "61107",
+            "name": "Morning Star Village",
+            "links": [],
+            "timezone": "America/Chicago",
+            "url": "https://seatgeek.com/venues/morning-star-village/tickets",
+            "score": 0,
+            "location": {
+                "lat": 42.2711,
+                "lon": -89.094
+            },
+            "address": "1160 North Mulford Road",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rockford",
+            "slug": "morning-star-village",
+            "extended_address": "Rockford, IL 61107",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 82924,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 610,
+            "capacity": 0,
+            "display_location": "Rockford, IL"
+        },
+        {
+            "state": "MN",
+            "name_v2": "Higher Grounds Coffeehouse",
+            "postal_code": "55441",
+            "name": "Higher Grounds Coffeehouse",
+            "links": [],
+            "timezone": "America/Chicago",
+            "url": "https://seatgeek.com/venues/higher-grounds-coffeehouse/tickets",
+            "score": 0,
+            "location": {
+                "lat": 45.0281,
+                "lon": -93.4357
+            },
+            "address": "12235 Old Rockford Rd",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Plymouth",
+            "slug": "higher-grounds-coffeehouse",
+            "extended_address": "Plymouth, MN 55441",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 246085,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 613,
+            "capacity": 0,
+            "display_location": "Plymouth, MN"
+        },
+        {
+            "state": "IL",
+            "name_v2": "Dusty Boots Saloon",
+            "postal_code": "",
+            "name": "Dusty Boots Saloon",
+            "links": [],
+            "timezone": null,
+            "url": "https://seatgeek.com/venues/dusty-boots-saloon/tickets",
+            "score": 0,
+            "location": {
+                "lat": 42.27,
+                "lon": -89.09
+            },
+            "address": "3907 Broadway",
+            "country": "US",
+            "has_upcoming_events": false,
+            "num_upcoming_events": 0,
+            "city": "Rockford",
+            "slug": "dusty-boots-saloon",
+            "extended_address": "Rockford, IL ",
+            "stats": {
+                "event_count": 0
+            },
+            "id": 252228,
+            "popularity": 0,
+            "access_method": null,
+            "metro_code": 610,
+            "capacity": 0,
+            "display_location": "Rockford, IL"
+        }
+    ],
+    "meta": {
+        "total": 181,
+        "took": 2,
+        "page": 1,
+        "per_page": 10,
+        "geolocation": null
+    }
+}
